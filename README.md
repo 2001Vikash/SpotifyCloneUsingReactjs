@@ -2,7 +2,8 @@
 
 This GitHub repository contains the source code and documentation for a Spotify Clone built using React.js for the front end. This clone mimics the user interface and some functionalities of the popular music streaming service Spotify. It's a great project for learning React.js and exploring how to work with music streaming and authentication APIs.
 
-![Spotify Clone Screenshot](screenshots/spotify-clone-screenshot.png)
+![Spotify Clone Screenshot](![React-App_Screenshot](https://github.com/2001Vikash/SpotifyCloneUsingReactjs/assets/107663201/b6a20e1b-8aa0-4115-bcb0-1a7eb604a5d5)
+) 
 
 ## Table of Contents
 
