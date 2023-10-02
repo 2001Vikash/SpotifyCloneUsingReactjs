@@ -10,7 +10,6 @@ This GitHub repository contains the source code and documentation for a Spotify 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 
 ## Features
 
@@ -78,6 +77,3 @@ Follow these instructions to set up and run the Spotify Clone locally.
 - Create playlists and add songs to them.
 - Enjoy a responsive user interface that adapts to different screen sizes.
 
-## Contributing
-
-Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this project.
